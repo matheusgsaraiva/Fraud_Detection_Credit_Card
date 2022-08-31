@@ -8,7 +8,7 @@
 
 Nesse projeto, eu criei um modelo de Reversão Logística para detectar fraudes em operações de cartão de crédito. Através da biblioteca scikitlearn e imblearn foi possível fazer todas as etapas de criação de um modelo (padronização, divisão entre conjuntos de treino e de validação, balanceamento e previsão).
 
-[Link para o projeto completo](https://github.com/matheusgsaraiva/Airbnb_Lyon_proj/blob/main/10_2_Projeto_1_Analisando_os_Dados_do_Airbnb.ipynb)
+[Link para o projeto completo](https://github.com/matheusgsaraiva/Fraud_Detection_Credit_Card/blob/main/PROJETO_MOD4_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
