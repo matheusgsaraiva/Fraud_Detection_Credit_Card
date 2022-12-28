@@ -8,7 +8,7 @@
 
 In this project, I have created a Logistic Reversal model to detect fraud in credit card operations. Using the scikitlearn and imblearn libraries it was possible to do all the steps of creating a model (standardization, division between training and validation sets, balancing and prediction).
 
-[Link to the project](https://github.com/matheusgsaraiva/Fraud_Detection_Credit_Card/blob/main/PROJETO_MOD4_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+[Link to the project](https://github.com/matheusgsaraiva/Fraud_Detection_Credit_Card/blob/main/PROJETO_MOD4_Credit_Card_Fraud_Detection.ipynb)
 
 **Links to find me:**
 * [LinkedIn](https://www.linkedin.com/in/mgsaraiva/)
