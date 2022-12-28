@@ -15,5 +15,5 @@ In this project, I have created a Logistic Reversal model to detect fraud in cre
 
 
 ## My Other Projects
-* **Analyzing Airbnb Data:** https://bit.ly/3p8ACtX
+* **Analyzing Airbnb Data in Lyon-FR:** https://bit.ly/3p8ACtX
 * **COVID-19 overview in Brazil:** https://bit.ly/3QxB9kL
